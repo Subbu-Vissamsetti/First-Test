@@ -1,0 +1,2 @@
+Hi everybody. This is a sample text file.
+I'm creating it to test Git commands.
